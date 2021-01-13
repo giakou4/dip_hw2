@@ -107,3 +107,11 @@ script πρέπει να μας πληροφορεί πόσες εικόνες �
 Να δείξετε την λειτουργία της μεθόδού σας και για τις πέντε εικόνες που σας δίνονται μαζί με την εκφώνηση.
 Τέλος, είναι απαραίτητο το script σας να λειτουργεί χωρίς a-priori γνώση της εικόνας εισόδου και να λειτουργεί με τις
 ίδιες παραμέτρους για όλες τις εικόνες εισόδου (one-script-fits-all λογική).
+
+## Support
+
+Reach out to me:
+- [giakou4's email](mailto:giakonick98@gmail.com "giakonick98@gmail.com")
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/giakou4/dip_hw2/LICENSE)
